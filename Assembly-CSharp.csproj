@@ -53,7 +53,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Orbit.cs" />
+     <Compile Include="Assets\Scripts\Rotate.cs" />
      <Compile Include="Assets\Scripts\Script1.cs" />
+     <None Include="Assets\DeepSpaceSkyboxPack\GalaxyFire\Galaxy Fire Skybox Readme.txt" />
+     <None Include="Assets\DeepSpaceSkyboxPack\GalacticGreen\Galactic Green Skybox Readme.txt" />
+     <None Include="Assets\DeepSpaceSkyboxPack\DiverseSpace\Diverse Space Skybox Readme.txt" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/diego/Desktop/ProyectoGraficas/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
