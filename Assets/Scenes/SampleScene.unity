@@ -453,7 +453,7 @@ MonoBehaviour:
   center: {fileID: 1486298740}
   radius: 7
   radiusSpeed: 0.5
-  rotationSpeed: 25
+  rotationSpeed: -25
 --- !u!1 &1486298736
 GameObject:
   m_ObjectHideFlags: 0
